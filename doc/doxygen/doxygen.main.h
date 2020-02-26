@@ -1,6 +1,6 @@
 /** \mainpage Blender
  *
- * \section intro Introduction
+ * \seoduction
  *
  * Blender is an integrated 3d package.
  *
